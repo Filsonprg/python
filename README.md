@@ -6,8 +6,8 @@
 
 ## F2
 
--není dokončeno
+- není dokončeno
 
 ## F3
 
--není dokončeno
+- není dokončeno
