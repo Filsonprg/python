@@ -1,6 +1,6 @@
 # API
 
-##POUŽITÍ 
+## POUŽITÍ 
 
 ### F1
 ```bash
