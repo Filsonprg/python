@@ -1,13 +1,13 @@
 # API
 
-## F1
+### F1
 
 - http://localhost/[název souboru]/?o=[název operátoru]&n=[první číslo],[druhé číslo],
 
-## F2
+### F2
 
 - není dokončeno
 
-## F3
+### F3
 
 - není dokončeno
