@@ -2,7 +2,7 @@
 
 ## F1
 
-- https://localhost/[název souboru]/?o=[název operátoru]&n=[první číslo],[druhé číslo]
+- http://localhost/[název souboru]/?o=[název operátoru]&n=[první číslo],[druhé číslo]
 
 ## F2
 
