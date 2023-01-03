@@ -1,6 +1,7 @@
 # API
 
 ## POUŽITÍ 
+- zde je použití jednotlivých fází
 
 ### F1
 ```bash
